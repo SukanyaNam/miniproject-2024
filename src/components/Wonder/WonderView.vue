@@ -21,7 +21,7 @@ import { onMounted,ref } from 'vue';
 const allVietnam = ref([]);
 
 onMounted(() => {
-    axios.get(`http://localhost:8080/Vietnam`)
+    axios.get(`https://server-json-774h.onrender.com/Vietnam`)
         .then((response) => {
             // console.log(response.data)
             allVietnam.value = response.data
