@@ -14,7 +14,6 @@ const notify = () => {
   })
   return notify
 }
-
 </script>
 
 <template>
@@ -27,8 +26,9 @@ const notify = () => {
       <div class="card-body">
         <h5 class="card-title">Home Page</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary" @click="notify">Read...</a>
+        <a href="#" class="btn btn-danger" @click="notify">Read...</a>
       </div>
     </div>
   </div>
 </template>
+

@@ -10,7 +10,7 @@ const logOut = async () => {
 </script>
 
 <template>
-    <nav class="navbar navbar-expand-lg navbar-dark shadow" style="background: #ed5e11;">
+    <nav class="navbar navbar-expand-lg navbar-dark shadow" style="background: #e8550b;">
         <div class="container">
             <RouterLink :to="{ name: 'home' }" class="navbar-brand">7 ที่เที่ยวเวียดนาม</RouterLink>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"

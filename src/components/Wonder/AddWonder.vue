@@ -5,7 +5,7 @@
             <div class="col-md-5 mb-1 mx-auto">
                 <div class="card shadow">
                     <div class="card-header p-0">
-                        <img src="https://cms.dmpcdn.com/travel/2022/03/31/e60f6880-b0c8-11ec-a7ab-a509bef14ff5_webp_original.jpg" class="card-img-top" alt="wonders">
+                        <img src="https://i.pinimg.com/564x/43/0c/b4/430cb4c27928ae0b184998772cb2073a.jpg" class="card-img-top" alt="wonders">
                     </div>
                 </div>
             </div>
